@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="532050c1-b340-4763-9f01-81b19bb328eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/koans/test_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_asserts.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_asserts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_attribute_access.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_attribute_access.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_class_attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_class_attributes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_control_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_control_statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_decorating_with_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_decorating_with_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_decorating_with_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_decorating_with_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_deleting_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_deleting_objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_dice_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_dice_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_extra_credit.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_extra_credit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_lambdas.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_lambdas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_list_assignments.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_list_assignments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_method_bindings.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_method_bindings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_monkey_patching.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_monkey_patching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_multiple_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_none.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_none.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_packages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_proxy_object_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_proxy_object_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_regex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_scoring_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_scoring_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_string_manipulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_string_manipulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_triangle_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_triangle_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_true_and_false.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_true_and_false.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_with_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_with_statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/koans/triangle.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OgoisdayTec2yBm2MwumHOluxy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/koans/game" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/koans/game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for about_attribute_access.AboutAttributeAccess.test_non_foo_messages_are_treated_normally">
+    <configuration name="Unittests for about_attribute_access.AboutAttributeAccess" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/koans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;about_attribute_access.AboutAttributeAccess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for about_attribute_access.AboutAttributeAccess.test_changes_to_the_getattribute_implementation_affects_getattr_function" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/koans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;about_attribute_access.AboutAttributeAccess.test_changes_to_the_getattribute_implementation_affects_getattr_function&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for about_attribute_access.AboutAttributeAccess.test_foo_attributes_are_caught" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/koans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;about_attribute_access.AboutAttributeAccess.test_foo_attributes_are_caught&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for about_attribute_access.AboutAttributeAccess.test_non_foo_messages_are_treated_normally" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/koans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;about_attribute_access.AboutAttributeAccess.test_non_foo_messages_are_treated_normally&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in about_attribute_access.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/koans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/koans/about_attribute_access.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for about_attribute_access.AboutAttributeAccess.test_non_foo_messages_are_treated_normally" />
+        <item itemvalue="Python tests.Unittests for about_attribute_access.AboutAttributeAccess" />
+        <item itemvalue="Python tests.Unittests for about_attribute_access.AboutAttributeAccess.test_foo_attributes_are_caught" />
+        <item itemvalue="Python tests.Unittests for about_attribute_access.AboutAttributeAccess.test_changes_to_the_getattribute_implementation_affects_getattr_function" />
+        <item itemvalue="Python tests.Unittests in about_attribute_access.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="532050c1-b340-4763-9f01-81b19bb328eb" name="Default Changelist" comment="" />
+      <created>1564408730400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564408730400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

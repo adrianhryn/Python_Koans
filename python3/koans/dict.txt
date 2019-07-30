@@ -1,0 +1,20 @@
+int.is_even = lambda self: (self % 2) == 0
+can't set attributes of built-in/extension type 'int'
+
+
+class Class:
+    def method(self):
+        return "parrot"
+
+
+
+obj = Class()
+print(obj.method.__self__)
+print(obj.method.__func__(obj))
+
+
+
+about method bindings
+
+
+atributes about
